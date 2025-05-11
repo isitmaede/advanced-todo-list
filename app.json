@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "مُنجز",
+    "slug": "advanced-todo-list",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/monjaz.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.xeyappsss.advancedtodolist"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "50fa80d3-0243-4d33-a0e2-8a350f78c167"
+      }
+    },
+    "owner": "xeyappsss"
+  }
+}
